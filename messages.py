@@ -1,0 +1,20 @@
+MESSAGES = [
+    "NASA?! I hardly NOAA!",
+    "Canasta?! I hardly know'a!",
+    "Liquor?! I hardly know'er!",
+    "Bailer?! I hardly know'er!",
+    "Aviator?! I hardly know'er!",
+    "Router?! I hardly know'er!",
+    "Poker?! I hardly know'er!",
+    "Stiff upper lip?! I hardly know'er!",
+    "Elderflower?! I hardly know'er!",
+    "Qauker oats?! I hardly know'er!",
+    "Ikea?! I hardly know'a!",
+    "Margaret Thatcher?! I hardly know'er!",
+    "Fiddler on the Roof?! I hardly know'er!",
+    "Tipper Gore?! I hardly know'er!",
+    "Schnauzer?! I hardly know'er!",
+    "Werner Herzog?! I hardly know'er!",
+    "Whopper with cheese?! I hardly know'er!",
+    "Polar Express?! I hardly know'er!"
+]
